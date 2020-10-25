@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "ITD APP LOGO FOR IN APP USE.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "ITD APP LOGO FOR IN APP USE-1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "ITD APP LOGO FOR IN APP USE-2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
